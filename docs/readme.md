@@ -1,4 +1,15 @@
-# pip镜像源
+## 开发环境
+```
+pycharm2021专业版
+```
+```
+依赖的库都可通过pycharm中file-settings-project-python interpreter直接安装
+```
+```
+安装较慢的话 可以设置国内镜像源
+```
+
+## pip镜像源
 
 清华大学
 https://pypi.tuna.tsinghua.edu.cn/simple/
